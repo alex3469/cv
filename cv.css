@@ -1,25 +1,29 @@
-			.text-center{
-				text-align: center;
-			}
-			ul{
-				padding-left: 0;
-				padding-right: 0;
-			}
-			h3{
-				color: crimson;
-			}
-			p{
-				font-style: oblique;
-				margin-left: 250px;
-				text-decoration: underline;
-				letter-spacing: 40px
-			}
-			article{
-				border: 5px double red
-			}
-			h2{
-				border: 10px groove blueviolet;
-				color: black;
-				display: flex;
-				direction: column;
-			} 
+.text-center{
+	text-align: center;
+	border-bottom: 3px solid black; color: red
+}
+
+ul{
+	padding-left: 0;
+	padding-right: 0;
+}
+h3{
+	color: crimson;
+}
+p{
+	font-style: oblique;
+	margin-left: 250px;
+	text-decoration: underline;
+	letter-spacing: 40px
+}
+article{
+	border: 5px double red
+}
+h2{
+	border: 10px groove blueviolet;
+	color: black;
+	display: flex;
+	direction: column;
+}
+
+
