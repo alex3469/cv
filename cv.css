@@ -1,6 +1,7 @@
-/*.text-center{
+
+			.text-center{
 				text-align: center;
-			}*/
+			}
 			ul{
 				padding-left: 0;
 				padding-right: 0;
@@ -12,11 +13,12 @@
 				font-style: oblique;
 				margin-left: 250px;
 				text-decoration: underline;
-				/*letter-spacing: 40px*/
+				letter-spacing: 40px
 			}
-			/*article{
+			article{
 				border: 5px double red
-			}*/
+			}
+
 			h2{
 				border: 10px groove blueviolet;
 				color: black;
@@ -45,3 +47,4 @@
 			        padding-bottom: 0;
 			        padding-left: 0;
 			}
+
